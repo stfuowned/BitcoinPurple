@@ -6,7 +6,7 @@ https://bitcoincore.org
 For an immediately usable, binary version of the BitcoinPurple Core software, see
 https://bitcoincore.org/en/download/.
 
-What is BitcoinPurple Core??
+What is BitcoinPurple Core?
 ---------------------
 
 BitcoinPurple Core connects to the BitcoinPurple peer-to-peer network to download and fully
